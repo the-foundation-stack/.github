@@ -12,7 +12,7 @@ What we publish
 
 **Open API standards** - vendor-neutral specifications that anyone can adopt
 ****Protocols** - interoperability layers for community infrastructure
-Reference implementations** - working code so adoption isn't theoretical
+Reference implementations** - working code so adoption isn't theoretical 
 **RFCs and research** - published thinking from academics, practitioners, and operators, with proper attribution
 
 Everything is permissively licensed (Apache 2.0 by default), self-hostable, and free of central authorities or mandatory hubs.
@@ -20,7 +20,7 @@ Projects
 Foundation - the monorepo
 The home of all current work. Project #1 inside it:
 OCAS - Open Charity API Standard
-A vendor-neutral OpenAPI 3.1 specification any charity can adopt to expose donations, subscriptions, campaigns, receipts and tax-relief declarations in a standard shape. First-class support for Gift Aid, US 501(c)(3), Canadian CRA, Australian DGR and seven more international schemes, alongside Zakat (with 8 Asnaf categories), Sadaqah, Waqf, Qurbani, Aqiqah, Fidya, Kaffarah, and interest purification.
+A vendor - neutral OpenAPI 3.1 specification any charity can adopt to expose donations, subscriptions, campaigns, receipts and tax-relief declarations in a standard shape. First-class support for Gift Aid, US 501(c)(3), Canadian CRA, Australian DGR and seven more international schemes, alongside Zakat (with 8 Asnaf categories), Sadaqah, Waqf, Qurbani, Aqiqah, Fidya, Kaffarah, and interest purification.
 Status: draft v0.1
 
 How to get involved
