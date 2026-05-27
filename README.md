@@ -2,18 +2,18 @@ The Foundation
 
 Open standards, protocols and shared infrastructure for socially-beneficial software.
 
-We publish specifications, protocols, reference implementations, and research that the world's charities, community organisations, and builders can adopt freely. The work has a particular focus on enabling Muslim developers, academics, and communities to collaborate openly — but the output itself is for everyone, and intentionally vendor-neutral.
+We publish specifications, protocols, reference implementations, and research that the world's charities, community organisations, and builders can adopt freely. The work has a particular focus on enabling Muslim developers, academics, and communities to collaborate openly, but the output itself is for everyone, and intentionally vendor-neutral.
 The name has two readings, both intended:
 
-Foundation as in waqf — a permanent, public endowment of work. Nobody owns it; everybody can build on it.
+Foundation as in waqf - a permanent, public endowment of work. Nobody owns it; everybody can build on it.
 Foundation as in the base layer of a stack. The primitives that other people's products sit on top of.
 
 What we publish
 
-Open API standards — vendor-neutral specifications that anyone can adopt
-Protocols — interoperability layers for community infrastructure
-Reference implementations — working code so adoption isn't theoretical
-RFCs and research — published thinking from academics, practitioners, and operators, with proper attribution
+**Open API standards** — vendor-neutral specifications that anyone can adopt
+****Protocols** — interoperability layers for community infrastructure
+Reference implementations** — working code so adoption isn't theoretical
+**RFCs and research** — published thinking from academics, practitioners, and operators, with proper attribution
 
 Everything is permissively licensed (Apache 2.0 by default), self-hostable, and free of central authorities or mandatory hubs.
 Projects
